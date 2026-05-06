@@ -8,7 +8,7 @@ This project is a portable ECG monitoring system using STM32 to measure heart ra
 - BPM calculation using peak detection
 - OLED display (SSD1306 via I2C)
 
-- ## Tech Stack
+## Tech Stack
 - STM32 (ARM Cortex-M4)
 - Embedded C
 - ADC, I2C
